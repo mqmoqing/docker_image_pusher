@@ -2,3 +2,4 @@ bitnami/kafka:3.4
 bitnami/zookeeper:3.9
 mysql:8.0.31
 provectuslabs/kafka-ui:latest
+bitnami/redis:latest
