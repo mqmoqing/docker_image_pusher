@@ -4,3 +4,4 @@ mysql:8.0.31
 provectuslabs/kafka-ui:latest
 bitnami/redis:latest
 leifengyang/jenkins:2.455-jdk21
+tdengine/tdengine:latest
